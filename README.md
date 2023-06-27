@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BrilliantCasino](https://github.com/sabexzero/BrilliantCasinoAPI)
 
-- 🌱 I’m currently learning **ASP.NET and C#**
+- 🌱 I’m currently learning **ASP.NET, C#, Python, TensorFlow, Keras**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sabexzero?tab=repositories](https://github.com/sabexzero?tab=repositories)
 
