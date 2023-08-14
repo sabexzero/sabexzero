@@ -3,7 +3,7 @@
 
 ![Untitled-1](https://github.com/sabexzero/sabexzero/assets/86537093/11009799-a82e-46c6-ba29-36b3c81b5a9d)
 
-- 🔭 I’m currently working on [BrilliantCasino](https://github.com/sabexzero/BrilliantCasinoAPI)
+- 🔭 I’m currently working on [BrilliantCasino](https://github.com/sabexzero/BrilliantCasinoAPI) and [Shuttle](https://github.com/sabexzero/ShuttleAPI)
 
 - 🌱 I’m currently learning **ASP.NET, C#, Python, TensorFlow, Keras**
 
