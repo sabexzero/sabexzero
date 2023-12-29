@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitaliy Kuksa</h1>
-<h3 align="center">C# ASP.NET developer from Russia</h3>
+<h3 align="center">C# ASP.NET / Java Spring developer from Russia</h3>
 
 ![Untitled-1](https://github.com/sabexzero/sabexzero/assets/86537093/11009799-a82e-46c6-ba29-36b3c81b5a9d)
 
